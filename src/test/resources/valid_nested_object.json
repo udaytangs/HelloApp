@@ -1,0 +1,11 @@
+{
+  "person": {
+    "name": "Alice",
+    "address": {
+      "street": "123 Main St",
+      "city": "Boston",
+      "zipcode": "02101"
+    }
+  },
+  "active": true
+}

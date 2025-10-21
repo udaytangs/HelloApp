@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "active": false
+    }
+  ],
+  "metadata": {
+    "total": 2,
+    "page": 1,
+    "settings": {
+      "theme": "dark",
+      "notifications": true
+    }
+  }
+}
