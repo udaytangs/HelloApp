@@ -1,0 +1,9 @@
+{
+  "integer": 42,
+  "negative": -10,
+  "float": 3.14159,
+  "negative_float": -2.5,
+  "scientific": 1.5e10,
+  "scientific_negative": -3.2e-5,
+  "zero": 0
+}

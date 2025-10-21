@@ -1,0 +1,7 @@
+{
+  "newline": "line1\nline2",
+  "tab": "col1\tcol2",
+  "quote": "He said \"hello\"",
+  "backslash": "path\\to\\file",
+  "unicode": "smile \u263A"
+}
